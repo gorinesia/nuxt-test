@@ -40,6 +40,12 @@ export default {
    ** See https://nuxtjs.org/api/configuration-components
    */
   components: true,
+  // components: {
+  //   dirs: [
+  //     '~/components',
+  //     '~/components/base'
+  //   ]
+  // },
   /*
    ** Nuxt.js dev-modules
    */
